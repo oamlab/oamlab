@@ -40,7 +40,7 @@
 6、负载均衡：Nginx，LVS，Keepalived
 服务器：3
 
-7、CI-CT-CD：
+7、DevSecOps(CI-CT-CD)：
 服务器：3
 CI：Git，Jenkins
 CT-白盒-静态测试
