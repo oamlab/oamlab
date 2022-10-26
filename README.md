@@ -42,7 +42,7 @@
 
 7、DevSecOps工具集(CI-CT-CD)：
 服务器：3
-CI：Git，Jenkins
+CI：Git，GitLab，Jenkins
 CT-白盒-静态测试
 CT-黑盒-动态测试
 CT-API接口测试
