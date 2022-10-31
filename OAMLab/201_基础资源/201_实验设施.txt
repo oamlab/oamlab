@@ -1,0 +1,4 @@
+Hardware: R620,E5-2695V2*2-24C-48T,64G*8-512G,SAS-900G*4-RAID10-1.8T,H710
+Operating System: CentOS Stream 9
+Virtualization: qemu-kvm,libvirt,virt-manager
+Number of virtual machines: 30+
