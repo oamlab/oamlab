@@ -1,0 +1,17 @@
+
+cat /proc/cpuinfo |grep vmx
+
+lsmod |grep kvm
+
+未开启
+kvm                  1105920  1 kvm_intel
+irqbypass              16384  150 kvm
+
+已开启
+kvm_intel             385024  50
+kvm                  1105920  1 kvm_intel
+irqbypass              16384  150 kvm
+
+
+关键词：kvm_intel
+keyword：kvm_intel
