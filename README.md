@@ -36,7 +36,7 @@
 5、日志分析：Elasticsearch，Logstash，Kibana
 服务器：3
 
-6、负载均衡：Nginx，LVS，Keepalived
+6、负载均衡：Nginx，LVS，Keepalived，CDN
 服务器：3
 
 7、DevSecOps工具集(CI-CT-CD)：
