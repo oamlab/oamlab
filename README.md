@@ -1,5 +1,5 @@
 
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">OAMLab v0.2.1</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">OAMLab v0.3.0</h1>
 <h4 align="center">公益的、免费的运维实验室！</h4>
 <p align="center"></p>
 
