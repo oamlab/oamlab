@@ -16,7 +16,7 @@
 
 ## OAMlab Introduction:
 
-**OAMLab** It is a free operation and maintenance laboratory for public welfare, mainly used by operation and maintenance technicians for operation and maintenance technology experiments. The modules include:
+**OAMLab** is a free operation and maintenance laboratory for public welfare, mainly used by operation and maintenance technicians for operation and maintenance technology experiments. The modules include:
 
 ``` java
 1、Cloud Computing-VM：Openstack
