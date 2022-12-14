@@ -7,8 +7,6 @@
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">奉献 · 友爱 · 互助 · 进步</h1>
 
----
-
 ## 前言：
 - [在线文档：https://github.com/oamlab](https://github.com/oamlab)
 - [Online Documentation：https://github.com/oamlab/oamlab](https://github.com/oamlab/oamlab/blob/main/README_English.md)
