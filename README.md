@@ -5,6 +5,10 @@
 
 ---
 
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">奉献 · 友爱 · 互助 · 进步</h1>
+
+---
+
 ## 前言：
 - [在线文档：https://github.com/oamlab](https://github.com/oamlab)
 - [Online Documentation：https://github.com/oamlab/oamlab](https://github.com/oamlab/oamlab/blob/main/README_English.md)
@@ -12,8 +16,6 @@
 - 注：所有的历史实验文档，都在github进行存档。
 
 - 欢迎更多的运维技术人员参与实验，一起不断向前！
-
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">奉献 · 友爱 · 互助 · 进步</h1>
 
 ## OAMlab 介绍:
 
