@@ -22,22 +22,22 @@
 1、Cloud Computing-VM：Openstack
 Number of servers: 3
 
-2、Cloud Computing-Container：Docker、Kubernetes、Rancher
+2、Cloud Computing-Container：Docker, Kubernetes, Rancher
 Number of servers: 3
 
-3、Distributed storage：Hadoop、Hbase、Ceph
+3、Distributed Storage：Hadoop, Hbase, Ceph
 Number of servers: 3
 
 4、Data
-DataBase: Mysql、MariaDB
+DataBase: Mysql,MariaDB
 DataCache: Redis
 Object Storage: Mongodb
 Number of servers: 3
 
-5、Log Analysis: Elasticsearch，Logstash，Kibana
+5、Log Analysis: Elasticsearch, Logstash, Kibana
 Number of servers: 3
 
-6、Load Balance: Nginx，LVS，Keepalived，CDN
+6、Load Balance: Nginx, LVS, Keepalived, CDN
 Number of servers: 3
 
 7、DevSecOps Toolset(CI-CT-CD)：
@@ -48,13 +48,13 @@ CT-Black Box Testing-Dynamic Testing
 CT-API-Interface Testing
 CD-Ansible，IaC
 
-8、Security：Security Threat Modeling,Firewall,WAF,User Permissions And File Permissions、Honeypot Technology,Chaos Engineering And Disaster Recovery Plan
+8、Security：Security Threat Modeling, Firewall, WAF, User Permissions And File Permissions, Honeypot Technology, Chaos Engineering And Disaster Recovery Plan
 Number of servers: 2
 
-9、Monitor: Nagios,Cacti,Zabbix,Prometheus,etc
+9、Monitor: Nagios, Cacti, Zabbix, Prometheus, etc
 Number of servers: 2
 
-10、Message Queue: RabbitMQ，kafka,etc
+10、Message Queue: RabbitMQ, kafka, etc
 Number of servers: 3
 
 ```
