@@ -13,7 +13,7 @@
 
 - 欢迎更多的运维技术人员参与实验，一起不断向前！
 
-# 我们：奉献 · 友爱 · 互助 · 进步
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">奉献 · 友爱 · 互助 · 进步</h1>
 
 ## OAMlab 介绍:
 
