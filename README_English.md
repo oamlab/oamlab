@@ -13,6 +13,7 @@
 
 - Welcome more operation and maintenance technicians to participate in the experiment and move forward together!
 
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Dedication · Friendly affection · Help each other · Improve</h1>
 
 ## OAMlab Introduction:
 
