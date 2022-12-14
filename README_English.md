@@ -5,7 +5,7 @@
 
 ---
 
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Dedication · Friendly affection · Help each other · Improve</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Preach · Teach · Dispel doubts · Practice<br>Dedication · Friendly affection · Help each other · Improve<br>Match word to deed  ·  Knowledge and action are one</h1>
 
 ## Preface：
 - [在线文档：https://github.com/oamlab](https://github.com/oamlab)
