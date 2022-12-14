@@ -4,8 +4,7 @@
 <p align="center"></p>
 
 ---
-
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">奉献 · 友爱 · 互助 · 进步</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">传道 · 授业 · 解惑 · 躬行<br>奉献 · 友爱 · 互助 · 进步<br>言行一致 · 知行合一</h1>
 
 ## 前言：
 - [在线文档：https://github.com/oamlab](https://github.com/oamlab)
