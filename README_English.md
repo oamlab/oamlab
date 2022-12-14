@@ -13,7 +13,7 @@
 
 - Welcome more operation and maintenance technicians to participate in the experiment and move forward together!
 
-# Dedication · Friendly affection · Help each other · Improve
+# We Are: Dedication · Friendly affection · Help each other · Improve
 
 ## OAMlab Introduction:
 
