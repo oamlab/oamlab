@@ -15,6 +15,10 @@
 
 - Welcome more operation and maintenance technicians to participate in the experiment and move forward together!
 
+## Appointment of experimental facilities:
+- [Appointment Application Form: https://www.wenjuan.com/s/An2muew](https://www.wenjuan.com/s/An2muew)
+
+
 ## OAMlab Introduction:
 
 **OAMLab** is a free operation and maintenance laboratory for public welfare, mainly used by operation and maintenance technicians for operation and maintenance technology experiments. The modules include:
