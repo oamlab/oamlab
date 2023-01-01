@@ -14,6 +14,9 @@
 
 - 欢迎更多的运维技术人员参与实验，一起不断向前！
 
+## 预约实验设施:
+- [预约申请表单：https://www.wenjuan.com/s/An2muew](https://www.wenjuan.com/s/An2muew)
+
 ## OAMlab 介绍:
 
 **OAMLab** 是公益免费的运维实验室，主要用于各位运维技术人员做运维技术实验使用，模块包括：
