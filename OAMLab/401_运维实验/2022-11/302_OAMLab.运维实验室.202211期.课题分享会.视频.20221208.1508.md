@@ -1,7 +1,7 @@
 # 会议记录：
 - 会议文档：当前文件夹内
 - 会议视频：
-- https://www.bilibili.com/video/BV1dP411K7f7/?vd_source=f60fa0f7de97c5b5928586e04eaf236c
+- https://www.bilibili.com/video/BV1dP411K7f7
 - ----------------------------
 # 会议课题：
 #### 分享课题：关于国产夜莺v4版本监控系统的安装使用
