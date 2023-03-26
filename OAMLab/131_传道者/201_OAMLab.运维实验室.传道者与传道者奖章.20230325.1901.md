@@ -27,7 +27,13 @@
 
 
 ### 《传道者奖章》
+<br>
+<p align="left">
+	<img alt="1_star" src="https://github.com/oamlab/oamlab/tree/main/OAMLab/131_%E4%BC%A0%E9%81%93%E8%80%85/501_1_star_medal.png">
+</p>
 
+## test
+<br>
 <p align="center">
-	<img alt="logo" src="https://github.com/oamlab/oamlab/tree/main/OAMLab/131_%E4%BC%A0%E9%81%93%E8%80%85/501_1_star_medal.png">
+	<img alt="logo" src="https://github.com/oamlab/STS/blob/main/101_build_example.png">
 </p>
