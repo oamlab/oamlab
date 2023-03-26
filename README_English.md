@@ -110,7 +110,7 @@ Concerned about the construction of the laboratory, the caring people who active
 *Ranking is based on the time sequence of filling in the questionnaire.Current overall donation progress is about 43.2%
 
 ## Active Preacher
-- [Active Practitioners of preach,teach and dispel doubts.](https://github.com/oamlab/oamlab/blob/main/OAMLab/131_%E4%BC%A0%E9%81%93%E8%80%85/201_OAMLab.%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4.%E4%BC%A0%E9%81%93%E8%80%85%E4%B8%8E%E4%BC%A0%E9%81%93%E8%80%85%E5%A5%96%E7%AB%A0.20230325.1901.md)
+- [Active Practitioners of preach,teach and dispel doubts.(Click to look)](https://github.com/oamlab/oamlab/blob/main/OAMLab/131_%E4%BC%A0%E9%81%93%E8%80%85/201_OAMLab.%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4.%E4%BC%A0%E9%81%93%E8%80%85%E4%B8%8E%E4%BC%A0%E9%81%93%E8%80%85%E5%A5%96%E7%AB%A0.20230325.1901.md)
 
 ## Technical exchange club
 (CN)SHENZHEN OAM CLUB, QQ group：216589280 [Click to join](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
