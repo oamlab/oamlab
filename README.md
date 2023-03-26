@@ -108,6 +108,9 @@ CD-Ansible，IaC
 
 *排名根据填写问卷的时间顺序；当前整体捐赠进度约43.2%
 
+## 传道者奖章
+- 传道、授业、解惑的积极实践者。[点击](https://github.com/oamlab/oamlab/blob/main/OAMLab/131_%E4%BC%A0%E9%81%93%E8%80%85/201_OAMLab.%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4.%E4%BC%A0%E9%81%93%E8%80%85%E4%B8%8E%E4%BC%A0%E9%81%93%E8%80%85%E5%A5%96%E7%AB%A0.20230325.1901.md)
+
 ## 技术交流群
 深圳运维圈 QQ交流群：216589280 [点击加入](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
 
