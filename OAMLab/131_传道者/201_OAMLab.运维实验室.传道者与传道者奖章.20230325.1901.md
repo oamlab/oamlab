@@ -25,8 +25,6 @@
 | **刘军**   | <font color="#FFD700">★</font>   |  1186158664@qq.com |
 
 
-<br>
-
 ### 《传道者奖章》
 
 <p align="left">
