@@ -112,6 +112,17 @@ Concerned about the construction of the laboratory, the caring people who active
 ## Active Preacher
 - [Active Practitioners of preach,teach and dispel doubts.(Click to look)](https://github.com/oamlab/oamlab/blob/main/OAMLab/131_%E4%BC%A0%E9%81%93%E8%80%85/201_OAMLab.%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4.%E4%BC%A0%E9%81%93%E8%80%85%E4%B8%8E%E4%BC%A0%E9%81%93%E8%80%85%E5%A5%96%E7%AB%A0.20230325.1901.md)
 
+
+- 《Preacher Medal》Winner:
+
+| Full Name						    | Star Rating	                   |CONTACT|
+|--------------------|:-------------------------------|-----------------|
+| **Li Yuanrong**    | <font color="#FFD700">⭐</font> |   584194788@qq.com |
+| **Zhang Kaixiong** | <font color="#FFD700">⭐</font> |  759869080@qq.com |
+| **Kuang Bo**       | <font color="#FFD700">⭐</font> |   1214966109@qq.com |
+| **Liu Jun**        | <font color="#FFD700">⭐</font> |  1186158664@qq.com |
+
+
 ## Technical exchange club
 (CN)SHENZHEN OAM CLUB, QQ group：216589280 [Click to join](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
 
