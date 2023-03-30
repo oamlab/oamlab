@@ -111,6 +111,16 @@ CD-Ansible，IaC
 ## 积极传道者
 - [传道、授业、解惑的积极实践者。(点击查看)](https://github.com/oamlab/oamlab/blob/main/OAMLab/131_%E4%BC%A0%E9%81%93%E8%80%85/201_OAMLab.%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4.%E4%BC%A0%E9%81%93%E8%80%85%E4%B8%8E%E4%BC%A0%E9%81%93%E8%80%85%E5%A5%96%E7%AB%A0.20230325.1901.md)
 
+
+- 《传道者奖章》获得者：
+
+| 姓名						 | 星级	                            |联系方式|
+|----------|:-------------------------------|-----------------|
+| **李渊荣**  | <font color="#FFD700">⭐</font> |   584194788@qq.com |
+| **张楷雄**  | <font color="#FFD700">⭐</font> |  759869080@qq.com |
+| **况波**   | <font color="#FFD700">⭐</font> |   1214966109@qq.com |
+| **刘军**   | <font color="#FFD700">⭐</font> |  1186158664@qq.com |
+
 ## 技术交流群
 深圳运维圈 QQ交流群：216589280 [点击加入](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
 
