@@ -88,6 +88,33 @@
 
 - Update Time:20230322
 
+
 ---
 
+
+- If the business does not grow, it is the beginning of layoffs; if the plan does not follow the direction of the company, it is an invalid plan.
+
+
+- Single-machine, single-point, single-cluster, exclusive agency, and no self-built unit are all taboos in terms of high availability.
+
+
+- If you can do it, he can do it, if you can’t do it yourself, don’t ask others; if you can’t do it yourself, if he can do it, you will be in trouble.
+
+
+- Be an in-house entrepreneur and help your company succeed.
+
+
+- Each host is a combat unit, and each operation and maintenance unit is a special soldier.
+
+
+- You must make a plan for yourself, and always insist on doing things that are valuable to the company and the team.
+
+
+- The concise code is called pseudocode, and the concise requirement is called command.
+
+
+- Update Time:20230402
+
+
+---
 <br>
