@@ -12,7 +12,6 @@
 - 注：所有的历史实验文档，都在github进行存档。
 - 欢迎更多的运维技术人员参与实验，一起不断向前！
 
-*[gitee: https://gitee.com/OAMLab/oamlab](https://gitee.com/OAMLab/oamlab)
 
 ## 预约实验设施:
 - [预约申请表单：https://www.wenjuan.com/s/An2muew](https://www.wenjuan.com/s/An2muew)

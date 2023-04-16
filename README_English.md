@@ -13,7 +13,6 @@
 - Note: All historical experimental documents are archived in github.
 - Welcome more operation and maintenance technicians to participate in the experiment and move forward together!
 
-*[gitee: https://gitee.com/OAMLab/oamlab](https://gitee.com/OAMLab/oamlab)
 
 ## Appointment of experimental facilities:
 - [Appointment Application Form: https://www.wenjuan.com/s/An2muew](https://www.wenjuan.com/s/An2muew)
