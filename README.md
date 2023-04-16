@@ -9,10 +9,10 @@
 ## 前言：
 - [在线文档：https://github.com/oamlab](https://github.com/oamlab)
 - [Online Documentation：https://github.com/oamlab/oamlab](https://github.com/oamlab/oamlab/blob/main/README_English.md)
-
 - 注：所有的历史实验文档，都在github进行存档。
-
 - 欢迎更多的运维技术人员参与实验，一起不断向前！
+
+*[gitee: https://gitee.com/OAMLab/oamlab](https://gitee.com/OAMLab/oamlab)
 
 ## 预约实验设施:
 - [预约申请表单：https://www.wenjuan.com/s/An2muew](https://www.wenjuan.com/s/An2muew)
@@ -22,44 +22,44 @@
 **OAMLab** 是公益免费的运维实验室，主要用于各位运维技术人员做运维技术实验使用，模块包括：
 
 ``` java
-1、云计算-VM：Openstack
-服务器数量：3
+1,云计算-VM: Openstack
+服务器数量: 3
 
-2、云计算-容器：Docker、Kubernetes、Rancher
-服务器数量：3
+2,云计算-容器: Docker,Kubernetes
+服务器数量: 3
 
-3、分布式存储：Hadoop、Hbase、Ceph
-服务器数量：3
+3,分布式存储: Hadoop,Hbase,Ceph
+服务器数量: 3
 
-4、数据
-数据库:Mysql、MariaDB
-缓存：Redis
-对象存储：Mongodb
-服务器数量：3
+4,数据
+数据库: Mysql,MariaDB
+缓存: Redis
+对象存储: Mongodb
+服务器数量: 3
 
-5、日志分析：Elasticsearch，Logstash，Kibana
-服务器数量：3
+5,日志分析: Elasticsearch,Logstash,Kibana
+服务器数量: 3
 
-6、负载均衡：Nginx，LVS，Keepalived，CDN
-服务器数量：3
+6,负载均衡: Nginx,LVS,Keepalived,CDN
+服务器数量: 3
 
-7、DevSecOps工具集(CI-CT-CD)：
-服务器数量：3
-CI：Git，GitLab，Jenkins
+7,DevSecOps工具集(CI-CT-CD):
+服务器数量: 3
+CI: Git,GitLab,Jenkins
 CT-白盒-静态测试
 CT-黑盒-动态测试
 CT-API接口测试
-CD-Ansible，IaC
+CD-Ansible,IaC
 
-8、安全：安全威胁建模、防火墙、WAF、用户权限与文件权限、蜜罐、混沌工程与DRP
-服务器数量：2
+8,安全:安全威胁建模,防火墙,WAF,用户权限与文件权限,蜜罐,混沌工程与DRP
+服务器数量: 2
 
-9、监控：Nagios，Cacti，Zabbix，Prometheus等
-服务器数量：2
+9,监控: Nagios,Cacti,Zabbix,Prometheus等
+服务器数量: 2
 
-10、消息队列：
-关键词：RabbitMQ，kafka等
-服务器数量：3
+10,消息队列:
+关键词: RabbitMQ,kafka等
+服务器数量: 3
 
 ```
 
