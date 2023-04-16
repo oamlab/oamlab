@@ -10,10 +10,10 @@
 ## Preface：
 - [在线文档：https://github.com/oamlab](https://github.com/oamlab)
 - [Online Documentation：https://github.com/oamlab/oamlab](https://github.com/oamlab/oamlab/blob/main/README_English.md)
-
 - Note: All historical experimental documents are archived in github.
-
 - Welcome more operation and maintenance technicians to participate in the experiment and move forward together!
+
+*[gitee: https://gitee.com/OAMLab/oamlab](https://gitee.com/OAMLab/oamlab)
 
 ## Appointment of experimental facilities:
 - [Appointment Application Form: https://www.wenjuan.com/s/An2muew](https://www.wenjuan.com/s/An2muew)
@@ -24,42 +24,42 @@
 **OAMLab** is a free operation and maintenance laboratory for public welfare, mainly used by operation and maintenance technicians for operation and maintenance technology experiments. The modules include:
 
 ``` java
-1、Cloud Computing-VM：Openstack
+1,Cloud Computing-VM: Openstack
 Number of servers: 3
 
-2、Cloud Computing-Container：Docker, Kubernetes, Rancher
+2,Cloud Computing-Container: Docker, Kubernetes, Rancher
 Number of servers: 3
 
-3、Distributed Storage：Hadoop, Hbase, Ceph
+3,Distributed Storage: Hadoop, Hbase, Ceph
 Number of servers: 3
 
-4、Data
+4,Data
 DataBase: Mysql,MariaDB
 DataCache: Redis
 Object Storage: Mongodb
 Number of servers: 3
 
-5、Log Analysis: Elasticsearch, Logstash, Kibana
+5,Log Analysis: Elasticsearch, Logstash, Kibana
 Number of servers: 3
 
-6、Load Balance: Nginx, LVS, Keepalived, CDN
+6,Load Balance: Nginx, LVS, Keepalived, CDN
 Number of servers: 3
 
-7、DevSecOps Toolset(CI-CT-CD)：
+7,DevSecOps Toolset(CI-CT-CD):
 Number of servers: 3
-CI：Git，GitLab，Jenkins
+CI: Git,GitLab,Jenkins
 CT-White Box Testing-Static Testing
 CT-Black Box Testing-Dynamic Testing
 CT-API-Interface Testing
-CD-Ansible，IaC
+CD-Ansible,IaC
 
-8、Security：Security Threat Modeling, Firewall, WAF, User Permissions And File Permissions, Honeypot Technology, Chaos Engineering And Disaster Recovery Plan
+8,Security: Security Threat Modeling, Firewall, WAF, User Permissions And File Permissions, Honeypot Technology, Chaos Engineering And Disaster Recovery Plan
 Number of servers: 2
 
-9、Monitor: Nagios, Cacti, Zabbix, Prometheus, etc
+9,Monitor: Nagios, Cacti, Zabbix, Prometheus, etc
 Number of servers: 2
 
-10、Message Queue: RabbitMQ, kafka, etc
+10,Message Queue: RabbitMQ, kafka, etc
 Number of servers: 3
 
 ```
