@@ -1,0 +1,115 @@
+#!/usr/bin/env groovy
+
+def projectProperties = [
+		[$class: 'BuildDiscarderProperty', strategy: [$class: 'LogRotator', numToKeepStr: '15']],
+		parameters([
+		stringParam(name: 'SVNURL', defaultValue: 'http://xxxx', description: 'svn url仓库地址'),	
+		stringParam(name: 'PRONAME', defaultValue: 'xxpp', description: '项目关键字'),
+
+
+		booleanParam(name: 'xxCONF', defaultValue: true, description: '项目配置文件'),
+
+		 choice(
+			name: 'CONNAMESPACE',	
+			choices: 'pro-xxpp',
+			description: '请选择nacso配置文件命名空间'
+		 ),
+
+		stringParam(name: 'xxpGROUP', defaultValue: 'xxp', description: 'xxp配置组'),	
+
+
+		choice(
+			name: 'ENV',	
+			choices: 'xxp-pro',
+			description: 'kubernetes命名空间'
+		 ),
+
+	 choice(
+		name: 'K8SCLUSTER',	
+		choices: 'xxpyun',
+		description: 'k8s集群'
+	 ),
+	
+   ])
+]
+properties(projectProperties)
+
+pipeline {
+    agent any
+    stages {
+
+    	stage('checkout代码'){
+    		steps {
+    	 	  script{
+    		       cleanWs()
+    		    }
+				   println "checkout"	
+    		  	}
+    		}
+
+
+		stage('编译打包') {
+			steps {
+				sh "echo `pwd`"
+				sh """
+				    echo "编译打包"
+				"""
+				}  
+			}
+
+
+		stage('下载项目的配置文件') {
+	      	steps { 
+	        	sh '''
+				    echo "下载项目的配置文件"
+					'''
+	            }
+        }
+
+		stage('生成Dockerfile') {
+			steps{
+			    sh  '''
+				   echo "Dockerfile"
+			    '''
+			}
+
+		}
+
+		stage('push docker镜像') {
+			steps{
+				
+				sh """
+				     echo "push image"
+				"""
+					
+			}					
+		}
+
+
+ 		stage('生成deployment文件') {
+          steps{   
+              sh """
+				     echo "deployment文件"
+				"""
+ 			}
+		}
+
+
+		stage('k8s部署服务') {
+			steps{
+			   	sh """
+                      echo "kubectl apply -f aa.yaml "
+                  """
+	       } 
+       }
+    }   
+
+    post { 
+        always { 
+            script {
+            	println("任务结束后,清除工作目录")
+            	cleanWs cleanWhenFailure: false, cleanWhenNotBuilt: false, cleanWhenUnstable: false
+            }
+        }
+    }
+}
