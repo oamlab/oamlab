@@ -27,7 +27,7 @@
 1,Cloud Computing-VM: Openstack
 Number of servers: 3
 
-2,Cloud Computing-Container: Docker, Kubernetes, Rancher
+2,Cloud Computing-Container: Docker, Kubernetes
 Number of servers: 3
 
 3,Distributed Storage: Hadoop, Hbase, Ceph
