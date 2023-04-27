@@ -42,7 +42,7 @@ Number of servers: 3
 5,Log Analysis: Elasticsearch, Logstash, Kibana
 Number of servers: 3
 
-6,Load Balance: Nginx, LVS, Keepalived, CDN
+6,Load Balance: Nginx-quic, HTTP/3, LVS, Keepalived, CDN
 Number of servers: 3
 
 7,DevSecOps Toolset(CI-CT-CD):

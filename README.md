@@ -41,7 +41,7 @@
 5,日志分析: Elasticsearch,Logstash,Kibana
 服务器数量: 3
 
-6,负载均衡: Nginx,LVS,Keepalived,CDN
+6,负载均衡: Nginx-quic,HTTP/3,LVS,Keepalived,CDN
 服务器数量: 3
 
 7,DevSecOps工具集(CI-CT-CD):
