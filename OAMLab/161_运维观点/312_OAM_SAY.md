@@ -108,7 +108,7 @@
 - Be an in-house entrepreneur and help your company succeed.
 
 
-- Each host is a combat unit, and each operation and maintenance unit is a special soldier.
+- Each stand-alone machine is a combat unit, and each operation and maintenance engineer is a special soldier.
 
 
 - You must make a plan for yourself, and always insist on doing things that are valuable to the company and the team.
@@ -118,6 +118,30 @@
 
 
 - Update Time:20230402
+
+
+---
+
+
+- Three major tragedies in life: mistaking platform for ability, mistaking position for ability, and mistaking social circle for personal connection!
+
+
+- Friendship born of interests will end when interests ends,friendship born of power will end when power ends,love born of beauty will end when beauty ends,what is the way for friendship?
+
+
+- Use test data to prove it is false, or to prove it is true.
+
+
+- All locks are against gentlemen, not villains.
+
+
+- Performance tuning is never-ending.
+
+
+- Holiday calls should be kept open, after all, the business of the enterprise is important.
+
+
+- Update Time:20230428
 
 
 ---
