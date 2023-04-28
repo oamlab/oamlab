@@ -132,7 +132,7 @@
 - Use test data to prove it is false, or to prove it is true.
 
 
-- All locks are against gentlemen, not villains.
+- Locks may be against gentlemen, not villains.
 
 
 - Performance tuning is never-ending.
