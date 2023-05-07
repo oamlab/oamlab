@@ -71,7 +71,7 @@ CD-Ansible,IaC
 - CentOS-7-x86_64-Minimal-2009
 - CentOS-Stream-9-20221003.2-x86_64
 
-## OAMLab分享内容：
+## OAMLab 分享内容：
 
 - [目录](https://github.com/oamlab/oamlab/tree/main/OAMLab)
 
