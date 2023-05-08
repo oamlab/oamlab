@@ -24,7 +24,7 @@
 **OAMLab** is a free operation and maintenance laboratory for public welfare, mainly used by operation and maintenance technicians for operation and maintenance technology experiments. The modules include:
 
 ``` java
-1,Cloud Computing-VM: Openstack
+1,Cloud Computing-KVM: KVM, Openstack
 Number of servers: 3
 
 2,Cloud Computing-Container: Docker, Kubernetes
