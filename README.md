@@ -12,7 +12,7 @@
 - 注：所有的历史实验文档，都在github进行存档。
 - 欢迎更多的运维技术人员参与实验，一起不断向前！
 
-*[国内访问请使用国内资料站gitee入口，点击进入](https://gitee.com/OAMLab/oamlab/blob/main/README_gitee.md)
+*[国内访问请使用国内资料站gitee入口，点击进入](https://gitee.com/oamlab/oamlab)
 
 ## 预约实验设施:
 
@@ -89,7 +89,7 @@ CD-Ansible,IaC
 
 - OAMLab.运维实验室.202304期.课题分享会 . [目录](https://github.com/oamlab/oamlab/tree/main/OAMLab/401_%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C/2023-04) . [视频](https://github.com/oamlab/oamlab/blob/main/OAMLab/401_%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C/2023-04/302_OAMLab.%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4.202304%E6%9C%9F.%E8%AF%BE%E9%A2%98%E5%88%86%E4%BA%AB%E4%BC%9A.%E8%A7%86%E9%A2%91.20230415.1908.md)
 
-*[国内访问请使用国内资料站gitee入口，点击进入](https://gitee.com/OAMLab/oamlab/blob/main/README_gitee.md)
+*[国内访问请使用国内资料站gitee入口，点击进入](https://gitee.com/oamlab/oamlab)
 
 ## 联合发起人
 
