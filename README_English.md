@@ -13,7 +13,7 @@
 - Note: All historical experimental documents are archived in github.
 - Welcome more operation and maintenance technicians to participate in the experiment and move forward together!
 
-*[gitee: https://gitee.com/OAMLab/oamlab](https://gitee.com/OAMLab/oamlab)
+*[gitee: https://gitee.com/oamlab/oamlab](https://gitee.com/oamlab/oamlab)
 
 ## Appointment of Experimental Facilities:
 
@@ -89,7 +89,7 @@ The infrastructure versions currently provided are as follows:
 
 - OAMLab.Issue 202304.Topic Sharing Meeting . [Directory](https://github.com/oamlab/oamlab/tree/main/OAMLab/401_%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C/2023-04) . [Video](https://github.com/oamlab/oamlab/blob/main/OAMLab/401_%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C/2023-04/302_OAMLab.%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4.202304%E6%9C%9F.%E8%AF%BE%E9%A2%98%E5%88%86%E4%BA%AB%E4%BC%9A.%E8%A7%86%E9%A2%91.20230415.1908.md)
 
-*[gitee: https://gitee.com/OAMLab/oamlab](https://gitee.com/OAMLab/oamlab)
+*[gitee: https://gitee.com/oamlab/oamlab](https://gitee.com/oamlab/oamlab)
 
 ## Co-Founders
 
