@@ -1,6 +1,17 @@
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">OAMLab v0.3.0</h1>
 <h4 align="center">公益的、免费的运维实验室！</h4>
+<p align="center">
+  <a href="./LICENSE"><img alt="license" src="https://img.shields.io/github/license/oamlab/oamlab" /></a>
+  <img alt="repo-size" src="https://img.shields.io/github/repo-size/oamlab/oamlab" />
+</p>
+
+<p align="center">
+   <a href="https://github.com/oamlab">github</a> | 
+   <a href="https://gitee.com/oamlab/oamlab">gitee</a> | 
+   <a href="https://github.com/oamlab/oamlab/blob/main/README.English.md">English</a>
+</p>
+
 <p align="center"></p>
 
 ---
@@ -52,7 +63,7 @@ CT-黑盒-动态测试
 CT-API接口测试
 CD-Ansible,IaC
 
-8,安全:安全威胁建模,防火墙,WAF,用户权限与文件权限,蜜罐,混沌工程与DRP
+8,安全:安全威胁建模,防火墙,WAF,自动防御,用户权限与文件权限,蜜罐,混沌工程与DRP
 服务器数量: 2
 
 9,监控: Nagios,Cacti,Zabbix,Prometheus等
