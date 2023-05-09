@@ -1,6 +1,17 @@
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">OAMLab v0.3.0</h1>
 <h4 align="center">Public welfare and free operation and maintenance laboratory!</h4>
+<p align="center">
+  <a href="./LICENSE"><img alt="license" src="https://img.shields.io/github/license/oamlab/oamlab" /></a>
+  <img alt="repo-size" src="https://img.shields.io/github/repo-size/oamlab/oamlab" />
+</p>
+
+<p align="center">
+   <a href="https://github.com/oamlab">github</a> | 
+   <a href="https://gitee.com/oamlab/oamlab">gitee</a> | 
+   <a href="https://github.com/oamlab/oamlab/blob/main/README.English.md">English</a>
+</p>
+
 <p align="center"></p>
 
 ---
@@ -53,7 +64,7 @@ CT-Black Box Testing-Dynamic Testing
 CT-API-Interface Testing
 CD-Ansible,IaC
 
-8,Security: Security Threat Modeling, Firewall, WAF, User Permissions And File Permissions, Honeypot Technology, Chaos Engineering And Disaster Recovery Plan
+8,Security: Security Threat Modeling, Firewall, WAF, Automatic Defense, User Permissions And File Permissions, Honeypot Technology, Chaos Engineering And Disaster Recovery Plan
 Number of servers: 2
 
 9,Monitor: Nagios, Cacti, Zabbix, Prometheus, etc
