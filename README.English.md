@@ -18,7 +18,7 @@
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Preach · Teach · Dispel doubts · Practice<br>Dedication · Friendly affection · Help each other · Improve<br>Match word to deed  ·  Knowledge and action are one</h1>
 
-## Preface：
+## 🌏 Preface：
 - [在线文档：https://github.com/oamlab](https://github.com/oamlab)
 - [Online Documentation：https://github.com/oamlab/oamlab](https://github.com/oamlab/oamlab/blob/main/README.English.md)
 - Note: All historical experimental documents are archived in github.
@@ -26,11 +26,11 @@
 
 *[gitee: https://gitee.com/oamlab/oamlab](https://gitee.com/oamlab/oamlab)
 
-## Appointment of Experimental Facilities:
+## 🕒 Appointment of Experimental Facilities:
 
 - [Appointment Application Form: https://www.wenjuan.com/s/An2muew](https://www.wenjuan.com/s/An2muew)
 
-## OAMlab Introduction:
+## 📃 OAMlab Introduction:
 
 **OAMLab** is a free operation and maintenance laboratory for public welfare, mainly used by operation and maintenance technicians for operation and maintenance technology experiments. The modules include:
 
@@ -75,14 +75,14 @@ Number of servers: 3
 
 ```
 
-## Experimental Environment Infrastructure Version:
+## 🧰 Experimental Environment Infrastructure Version:
 
 The infrastructure versions currently provided are as follows:
 
 - CentOS-7-x86_64-Minimal-2009
 - CentOS-Stream-9-20221003.2-x86_64
 
-## OAMLab Share Content：
+## 📚 OAMLab Share Content：
 
 - [Directory](https://github.com/oamlab/oamlab/tree/main/OAMLab)
 
@@ -102,9 +102,9 @@ The infrastructure versions currently provided are as follows:
 
 *[gitee: https://gitee.com/oamlab/oamlab](https://gitee.com/oamlab/oamlab)
 
-## Co-Founders
+## 🤝 Co-Sponsor
 
-The co sponsors who advocate diligent technology and continuous learning are as follows:
+The co-sponsors who advocate diligent technology and continuous learning are as follows:
 
 - **Andy Yao** 77810419@qq.com
 - **Zhang Kaixiong** 759869080@qq.com
@@ -120,7 +120,7 @@ The co sponsors who advocate diligent technology and continuous learning are as 
 
 *Ranking is based on the time sequence of filling in the questionnaire.
 
-## Caring Donor
+## 💖 Caring Donor
 
 Concerned about the construction of the laboratory, the caring people who actively donated are as follows:
 
@@ -140,7 +140,7 @@ Concerned about the construction of the laboratory, the caring people who active
 
 *Ranking is based on the time sequence of filling in the questionnaire.Current overall donation progress is about 43.2%
 
-## Active Preacher
+## 🥇  Active Preacher
 - [Active Practitioners of preach,teach and dispel doubts.(Click to look)](https://github.com/oamlab/oamlab/blob/main/OAMLab/131_%E4%BC%A0%E9%81%93%E8%80%85/README.md)
 
 
@@ -154,7 +154,7 @@ Concerned about the construction of the laboratory, the caring people who active
 | **Liu Jun**        | <font color="#FFD700">⭐</font> |  1186158664@qq.com |
 
 
-## Technical Exchange Club
+## 📶 Technical Exchange Club
 (CN)SHENZHEN OAM CLUB, QQ group：216589280 [Click to join](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
 
 <br>
