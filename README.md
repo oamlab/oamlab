@@ -17,7 +17,7 @@
 ---
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">传道 · 授业 · 解惑 · 躬行<br>奉献 · 友爱 · 互助 · 进步<br>言行一致 · 知行合一</h1>
 
-## 前言：
+## 🌏 前言：
 - [在线文档：https://github.com/oamlab](https://github.com/oamlab)
 - [Online Documentation：https://github.com/oamlab/oamlab](https://github.com/oamlab/oamlab/blob/main/README.English.md)
 - 注：所有的历史实验文档，都在github进行存档。
@@ -25,11 +25,11 @@
 
 *[国内访问请使用国内资料站gitee入口，点击进入](https://gitee.com/oamlab/oamlab)
 
-## 预约实验设施:
+## 🕒 预约实验设施:
 
 - [预约申请表单：https://www.wenjuan.com/s/An2muew](https://www.wenjuan.com/s/An2muew)
 
-## OAMlab 介绍:
+## 📃 OAMlab 介绍:
 
 **OAMLab** 是公益免费的运维实验室，主要用于各位运维技术人员做运维技术实验使用，模块包括：
 
@@ -75,14 +75,14 @@ CD-Ansible,IaC
 
 ```
 
-## 实验环境基础设施版本：
+## 🧰 实验环境基础设施版本：
 
 目前提供的基础设施版本如下：
 
 - CentOS-7-x86_64-Minimal-2009
 - CentOS-Stream-9-20221003.2-x86_64
 
-## OAMLab 分享内容：
+## 📚 OAMLab 分享内容：
 
 - [目录](https://github.com/oamlab/oamlab/tree/main/OAMLab)
 
@@ -102,7 +102,7 @@ CD-Ansible,IaC
 
 *[国内访问请使用国内资料站gitee入口，点击进入](https://gitee.com/oamlab/oamlab)
 
-## 联合发起人
+## 🤝 联合发起人
 
 倡导勤于技术，不断学习的联合发起人如下：
 
@@ -120,7 +120,7 @@ CD-Ansible,IaC
 
 *排名根据填写问卷的时间顺序
 
-## 大爱捐赠人
+## 💖 大爱捐赠人
 
 关注实验室建设，积极捐增的爱心人士如下：
 
@@ -140,7 +140,7 @@ CD-Ansible,IaC
 
 *排名根据填写问卷的时间顺序；当前整体捐赠进度约43.2%
 
-## 积极传道者
+## 🥇 积极传道者
 - [传道、授业、解惑的积极实践者。(点击查看)](https://github.com/oamlab/oamlab/blob/main/OAMLab/131_%E4%BC%A0%E9%81%93%E8%80%85/README.md)
 
 
@@ -153,7 +153,7 @@ CD-Ansible,IaC
 | **况波**   | <font color="#FFD700">⭐</font> |   1214966109@qq.com |
 | **刘军**   | <font color="#FFD700">⭐</font> |  1186158664@qq.com |
 
-## 技术交流群
+## 📶 技术交流群
 深圳运维圈 QQ交流群：216589280 [点击加入](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
 
 <br>
