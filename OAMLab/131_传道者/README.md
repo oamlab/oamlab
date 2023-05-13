@@ -32,5 +32,5 @@
 ### 《传道者奖章》
 
 <p align="left">
-	<img alt="Preacher_Medal_1_Star" src="./OAMLab/131_传道者/501_1_star_medal.png">
+	<img alt="Preacher_Medal_1_Star" src="./501_1_star_medal.png">
 </p>
