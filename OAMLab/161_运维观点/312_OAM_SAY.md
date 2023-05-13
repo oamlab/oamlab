@@ -3,8 +3,8 @@
 (CN)SHENZHEN OAM CLUB, QQ group：216589280 [Click to join](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
 
 ## Preface：
-- [运维圈内语](https://github.com/oamlab/oamlab/blob/main/OAMLab/161_%E8%BF%90%E7%BB%B4%E8%A7%82%E7%82%B9/311_%E8%BF%90%E7%BB%B4.%E5%9C%88%E5%86%85%E8%AF%AD.md)
-- [OAM.SAY](https://github.com/oamlab/oamlab/blob/main/OAMLab/161_%E8%BF%90%E7%BB%B4%E8%A7%82%E7%82%B9/312_OAM_SAY.md)
+- [运维圈内语](./311_运维.圈内语.md)
+- [OAM.SAY](./312_OAM_SAY.md)
 
 ---
 
