@@ -100,7 +100,7 @@ CD-Ansible,IaC
 
 - OAMLab.运维实验室.202304期.课题分享会 . [视频](./OAMLab/401_运维实验/2023-04)
 
-- [使用Nginx-QUIC,HTTP/3](https://github.com/oamlab/nginx-quic)
+- [使用Nginx-QUIC,HTTP/3](https://gitee.com/oamlab/nginx-quic)
 
 *[国际访问请使用国际资料仓github入口，点击进入](https://github.com/oamlab)
 
