@@ -102,6 +102,8 @@ CD-Ansible,IaC
 
 - [使用Nginx-QUIC,HTTP/3](https://github.com/oamlab/nginx-quic)
 
+- [攻击者清单](https://github.com/oamlab/attacker)
+
 *[国内访问请使用国内资料仓gitee入口，点击进入](https://gitee.com/oamlab/oamlab)
 
 ## 🤝 联合发起人
