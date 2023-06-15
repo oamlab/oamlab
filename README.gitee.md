@@ -172,7 +172,7 @@ CD-Ansible,IaC
 - 譬如：XXX Community Server 1.0.1是基于GPL v2.0授权，我们编写的辅助软件start_XXX.sh和文档是基于GPL v3.0。
 
 <p align="center">
-	<img alt="OAMLab_gitee_img" src="https://www.wegoodgoodstudydaydayup.com/oamlab_gitee.webp">
+	<img alt="OAMLab_gitee_img" src="https://www.wegoodgoodstudydaydayup.com/oamlab_gitee.webp?v=1">
 </p>
 
 <br>
