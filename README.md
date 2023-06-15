@@ -171,4 +171,8 @@ CD-Ansible,IaC
 - 独立于原软件或依赖软件之外编写的代码、辅助软件、使用方法、文档等，是GNU General Public License v3.0授权。
 - 譬如：XXX Community Server 1.0.1是基于GPL v2.0授权，我们编写的辅助软件start_XXX.sh和文档是基于GPL v3.0。
 
+<p align="center">
+	<img alt="OAMLab_github_img" src="https://www.wegoodgoodstudydaydayup.com/oamlab_github.webp?v=1">
+</p>
+
 <br>
