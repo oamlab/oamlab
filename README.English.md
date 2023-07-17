@@ -139,6 +139,8 @@ Concerned about the construction of the laboratory, the caring people who active
 | **Liu Jun**        |                 1.2% | 1186158664@qq.com |
 | **Li Yuanrong**    |                 1.2% |  584194788@qq.com |
 | **Zeng Xianglin**  |                 1.2% |  839225516@qq.com |
+| **Zeng Xianglin**  |                 2.4% |  23198985@qq.com |
+| **Qiu Ke**         |                 2.4% |  23198985@qq.com |
 
 *Ranking is based on the time sequence of filling in the questionnaire.Current overall donation progress is about 43.2%
 
