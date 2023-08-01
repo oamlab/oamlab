@@ -84,7 +84,9 @@ CD-Ansible,IaC
 
 ## 📚 OAMLab 分享内容：
 
-- [目录](./OAMLab)
+- [仓库列表](https://gitee.com/oamlab/projects)
+
+- [主仓目录](./OAMLab)
 
 - [运维观点](https://gitee.com/OAMLab/oamlab/tree/main/OAMLab/161_运维观点)
 
@@ -175,7 +177,7 @@ CD-Ansible,IaC
 - 譬如：XXX Community Server 1.0.1是基于GPL v2.0授权，我们编写的辅助软件start_XXX.sh和文档是基于GPL v3.0。
 
 <p align="center">
-	<img alt="OAMLab_gitee_img" src="https://www.wegoodgoodstudydaydayup.com/oamlab_gitee.webp?v=1">
+	<img alt="OAMLab_gitee_img" src="https://www.wegoodgoodstudydaydayup.com/oamlab_gitee.webp?v=202308012358">
 </p>
 
 <br>
