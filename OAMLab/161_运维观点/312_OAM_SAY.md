@@ -90,12 +90,6 @@
 - Departments that spend money will generally lay off employees, and departments that make money will increase staff.
 
 
-- Update Time:20230322
-
-
----
-
-
 - If the business does not grow, it is the beginning of layoffs; if the plan does not follow the direction of the company, it is an invalid plan.
 
 
@@ -117,12 +111,6 @@
 - The concise code is called pseudocode, and the concise requirement is called command.
 
 
-- Update Time:20230402
-
-
----
-
-
 - Three major tragedies in life: mistaking platform for ability, mistaking position for ability, and mistaking social circle for personal connection!
 
 
@@ -139,9 +127,6 @@
 
 
 - Holiday calls should be kept open, after all, the business of the enterprise is important.
-
-
-- Update Time:20230428
 
 
 ---
