@@ -1,7 +1,7 @@
 - OAMlab
 - https://github.com/oamlab
 
-# 关于在本地linux终端上使用ssh免秘钥登录方法登录远程linux主机的方法
+# 在本地linux使用ssh免秘钥登录方法登录远程linux
 
 - ----------------------------
 
