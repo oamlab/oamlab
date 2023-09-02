@@ -102,7 +102,7 @@ The infrastructure versions currently provided are as follows:
 
 - OAMLab.Issue 202306.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2023-06)
 
-- OAMLab.Issue 202306.Topic Sharing Meeting . [Notice](./OAMLab/401_运维实验/2023-08/301_OAMLab.运维实验室.202308期.分享预告.20230717.2101.md)
+- OAMLab.Issue 202308.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2023-08)
 
 - [Use Nginx-QUIC,HTTP/3](https://github.com/oamlab/nginx-quic)
 
