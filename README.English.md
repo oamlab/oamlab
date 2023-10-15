@@ -146,7 +146,7 @@ Concerned about the construction of the laboratory, the caring people who active
 | **Zeng Xianglin**  |                 2.4% |  23198985@qq.com |
 | **Qiu Ke**         |                 2.4% |  23198985@qq.com |
 
-*Ranking is based on the time sequence of filling in the questionnaire.Current overall donation progress is about 43.2%
+*Ranking is based on the time sequence of filling in the questionnaire.Current overall donation progress is about 47%
 
 ## 🥇  Active Preacher
 - [Active Practitioners of preach,teach and dispel doubts.(Click to look)](./OAMLab/131_传道者/README.md)
