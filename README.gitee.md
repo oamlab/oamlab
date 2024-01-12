@@ -46,7 +46,7 @@
 4,数据
 数据库: Mysql,MariaDB
 缓存: Redis
-对象存储: Mongodb
+对象存储: Mongodb,Minio
 服务器数量: 3
 
 5,日志分析: Elasticsearch,Logstash,Kibana
