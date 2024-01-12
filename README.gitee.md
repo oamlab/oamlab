@@ -79,8 +79,8 @@ CD-Ansible,IaC
 
 目前提供的基础设施版本如下：
 
-- CentOS-7-x86_64-Minimal-2009
-- CentOS-Stream-9-20221003.2-x86_64
+- [CentOS-7-x86_64-Minimal-2009，结束生命周期时间：2024年6月30日](https://blog.centos.org/2023/04/end-dates-are-coming-for-centos-stream-8-and-centos-linux-7/)
+- [CentOS-Stream-9-20221003.2-x86_64, 当前使用中](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
 
 ## 📚 OAMLab 分享内容：
 
