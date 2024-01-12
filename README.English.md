@@ -43,9 +43,9 @@ Number of servers: 3
 Number of servers: 3
 
 4,Data
-DataBase: Mysql,MariaDB
+DataBase: Mysql, MariaDB
 DataCache: Redis
-Object Storage: Mongodb
+Object Storage: Mongodb, Minio
 Number of servers: 3
 
 5,Log Analysis: Elasticsearch, Logstash, Kibana
@@ -56,7 +56,7 @@ Number of servers: 3
 
 7,DevSecOps Toolset(CI-CT-CD):
 Number of servers: 3
-CI: Git,GitLab,Jenkins
+CI: Git, GitLab, Jenkins
 CT-White Box Testing-Static Testing
 CT-Black Box Testing-Dynamic Testing
 CT-API-Interface Testing
