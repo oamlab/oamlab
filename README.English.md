@@ -160,6 +160,7 @@ Concerned about the construction of the laboratory, the caring people who active
 | **Zhang Kaixiong** | <font color="#FFD700">⭐</font> |  759869080@qq.com |
 | **Kuang Bo**       | <font color="#FFD700">⭐</font> |   1214966109@qq.com |
 | **Liu Jun**        | <font color="#FFD700">⭐</font> |  1186158664@qq.com |
+| **Qiu Ke**   | <font color="#FFD700">⭐</font> |  23198985@qq.com |
 
 
 ## 📶 Technical Exchange Club
