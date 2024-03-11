@@ -163,6 +163,7 @@ CD-Ansible,IaC
 | **张楷雄**  | <font color="#FFD700">⭐</font> |  759869080@qq.com |
 | **况波**   | <font color="#FFD700">⭐</font> |   1214966109@qq.com |
 | **刘军**   | <font color="#FFD700">⭐</font> |  1186158664@qq.com |
+| **邱科**   | <font color="#FFD700">⭐</font> |  23198985@qq.com |
 
 ## 📶 技术交流群
 深圳运维圈 QQ交流群：216589280 [点击加入](https://jq.qq.com/?_wv=1027&k=tdDtDoUp)
