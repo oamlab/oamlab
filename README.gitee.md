@@ -106,6 +106,8 @@ CD-Ansible,IaC
 
 - OAMLab.运维实验室.202308期.课题分享会 . [视频](./OAMLab/401_运维实验/2023-08)
 
+- OAMLab.运维实验室.202308期.课题分享会 . [预告](./OAMLab/401_运维实验/2024-04)
+
 - [使用Nginx-QUIC,HTTP/3](https://gitee.com/oamlab/nginx-quic)
 
 - [攻击者清单](https://github.com/oamlab/attacker)

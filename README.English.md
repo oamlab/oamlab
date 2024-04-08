@@ -104,6 +104,8 @@ The infrastructure versions currently provided are as follows:
 
 - OAMLab.Issue 202308.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2023-08)
 
+- OAMLab.Issue 202308.Topic Sharing Meeting . [Notice](./OAMLab/401_运维实验/2024-04)
+
 - [Use Nginx-QUIC,HTTP/3](https://github.com/oamlab/nginx-quic)
 
 - [Attacker List](https://github.com/oamlab/attacker)
