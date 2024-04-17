@@ -34,7 +34,7 @@
 # 会议记录：
 - 会议文档：当前文件夹内
 - 会议视频：
-- https://www.bilibili.com/video/BV1XC41137WY/
+- https://www.bilibili.com/video/BV1XC41137WY
 
 |   大致起时间	 |   大致止时间	 | 内容  |
 |---------:|---------:|-----|
