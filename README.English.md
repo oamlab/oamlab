@@ -90,6 +90,8 @@ The infrastructure versions currently provided are as follows:
 
 - [OAM Engineering](./OAMLab/161_运维观点/202_运维.运维工程.20230319.0927.pdf) . [Basic Skills of OAM Engineers](./OAMLab/161_运维观点/206_运维.基本技能.20230324.2009.pdf) . [OAM Career Development](./OAMLab/161_运维观点/212_运维.职业发展.20230322.1911.pdf) . [OAM SAY](./OAMLab/161_运维观点/312_OAM_SAY.md)
 
+- [Service Quality Planning for OAM Engineering(SLA)](./OAMLab/161_运维观点/6101_Service_Quality_Planning_for_OAM_Engineering.20240426.2001.md)
+
 - [Enterprise Private Cloud Construction Reference](./OAMLab/161_运维观点/5102_运维.私有云.企业私有云建设参考.20230406.1959.pdf) . [Enterprise Software R&D Effectiveness DevSecOps Toolkit](./OAMLab/161_运维观点/5202_运维.DecSecOps.企业软件研发效能DecSecOps工具集在企业应用中的参考.20230415.2101.pdf)
 
 - [Several Signs that Enterprises begin to Pay Attention to Information Security](./OAMLab/161_运维观点/5302_运维.安全.信息安全.企业开始注重信息安全的几个征兆.20230328.2002.pdf) . [Several Ways of Enterprise Commercial Privacy Data Leakage](./OAMLab/161_运维观点/5304_运维.安全.信息安全.企业商业隐私数据泄露的几个途径.20230424.2225.pdf)
