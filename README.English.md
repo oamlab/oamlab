@@ -77,8 +77,7 @@ Number of servers: 3
 
 The infrastructure versions currently provided are as follows:
 
-- [CentOS-7-x86_64-Minimal-2009, End of Life: June 30, 2024](https://blog.centos.org/2023/04/end-dates-are-coming-for-centos-stream-8-and-centos-linux-7/)
-- [CentOS-Stream-9-20221003.2-x86_64, Currently in use](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
+- [CentOS-Stream-9-20221003.2-x86_64](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
 
 ## 📚 OAMLab Share Content：
 
