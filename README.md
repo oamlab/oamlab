@@ -111,6 +111,8 @@ CD-Ansible,IaC
 
 - [使用Nginx-QUIC,HTTP/3](https://github.com/oamlab/nginx-quic)
 
+- [关于部署DevSecOps演示环境的概要资料](https://github.com/oamlab/devsecops/blob/main/devsecops/3181_Others/README.md)
+
 - [攻击者清单](https://github.com/oamlab/attacker)
 
 *[国内访问请使用国内资料仓gitee入口，点击进入](https://gitee.com/oamlab/oamlab)
