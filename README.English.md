@@ -107,6 +107,8 @@ The infrastructure versions currently provided are as follows:
 
 - OAMLab.Issue 202404.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2024-04)
 
+- OAMLab.Issue 202406.Topic Sharing Meeting . [Notice](./OAMLab/401_运维实验/2024-06)
+
 - [Use Nginx-QUIC,HTTP/3](https://github.com/oamlab/nginx-quic)
 
 - [Overview of deploying DevSecOps's demo environment](https://github.com/oamlab/devsecops/blob/main/devsecops/3181_Others/README.md)
