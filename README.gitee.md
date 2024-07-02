@@ -93,9 +93,9 @@ CD-Ansible,IaC
 
 - [运维工程服务质量策划(SLA)](./OAMLab/161_运维观点/6101_Service_Quality_Planning_for_OAM_Engineering.20240426.2001.md)
 
-- [企业私有云建设参考](./OAMLab/161_运维观点/5102_运维.私有云.企业私有云建设参考.20230406.1959.pdf)
+- [企业私有云建设参考](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/161_运维观点/5102_运维.私有云.企业私有云建设参考.20230406.1959.pdf)
 
-- [企业软件研发效能DevSecOps工具集](./OAMLab/161_运维观点/5202_运维.DecSecOps.企业软件研发效能DecSecOps工具集在企业应用中的参考.20230415.2101.pdf) . [企业软件研发效能DevSecOps工具集.流水线.示意图](./OAMLab/161_运维观点/5206_运维.敏捷项目管理.企业软件研发效能DevSecOps工具集.流水线.示意图.20240701.2045.pdf)
+- [企业软件研发效能DevSecOps工具集](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/161_运维观点/5202_运维.DecSecOps.企业软件研发效能DecSecOps工具集在企业应用中的参考.20230415.2101.pdf) . [企业软件研发效能DevSecOps工具集.流水线.示意图](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/161_运维观点/5206_运维.敏捷项目管理.企业软件研发效能DevSecOps工具集.流水线.示意图.20240701.2045.pdf)
 
 - [企业开始注重信息安全的几个征兆](https://gitee.com/OAMLab/oamlab/raw/main/OAMLab/161_运维观点/5302_运维.安全.信息安全.企业开始注重信息安全的几个征兆.20230328.2002.pdf) . [企业商业隐私数据泄露的几个途径](https://gitee.com/OAMLab/oamlab/raw/main/OAMLab/161_运维观点/5304_运维.安全.信息安全.企业商业隐私数据泄露的几个途径.20230424.2225.pdf)
 
