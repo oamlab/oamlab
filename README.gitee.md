@@ -27,7 +27,7 @@
 
 ## 🕒 预约实验设施:
 - [预约申请表单：https://www.wenjuan.com/s/An2muew](https://www.wenjuan.com/s/An2muew)
-- [OAMLab运维实验室管理制度](https://github.com/oamlab/oamlab/blob/main/OAMLab/151_%E4%BC%9A%E8%AE%AE%E6%9D%90%E6%96%99/20221030-%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4%E9%A2%84%E7%BA%A6-11%E6%9C%88%E6%9A%A8%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%AE%A3%E8%AE%B2/2%E3%80%81OAMLab.%E8%BF%90%E7%BB%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4.%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%AE%A1%E7%90%86%E5%88%B6%E5%BA%A6.20221028.2151.pdf)
+- [OAMLab运维实验室管理制度](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/151_会议材料/20221030-运维实验室预约-11月暨首次使用宣讲/2、OAMLab.运维实验室.实验室管理制度.20221028.2151.pdf)
 
 ## 📃 OAMlab 介绍:
 
