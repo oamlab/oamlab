@@ -158,7 +158,7 @@ Concerned about the construction of the laboratory, the caring people who active
 | **Sivin Liu**      |                 0.9% |  2176804187@qq.com |
 | **Eric Zhou**      |                 0.9% |  243120635@qq.com |
 
-*Ranking is based on the time sequence of filling in the questionnaire.Current overall donation progress is about 47%
+*Ranking is based on the time sequence of filling in the questionnaire; Current overall donation progress is about 49%; The donation proportion follow the total cost.
 
 ## 🥇  Active Preacher
 - [Active Practitioners of preach,teach and dispel doubts.(Click to look)](./OAMLab/131_传道者/README.md)
