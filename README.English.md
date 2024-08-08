@@ -95,7 +95,9 @@ The infrastructure versions currently provided are as follows:
 
 - [Enterprise Software R&D Effectiveness DevSecOps Toolkit](./OAMLab/161_运维观点/5202_运维.DecSecOps.企业软件研发效能DecSecOps工具集在企业应用中的参考.20230415.2101.pdf) . [Enterprise Software R&D Effectiveness DevSecOps Toolkit.Pipeline.Demo](./OAMLab/161_运维观点/5206_运维.敏捷项目管理.企业软件研发效能DevSecOps工具集.流水线.示意图.20240701.2045.pdf)
 
-- [Several Signs that Enterprises begin to Pay Attention to Information Security](./OAMLab/161_运维观点/5302_运维.安全.信息安全.企业开始注重信息安全的几个征兆.20230328.2002.pdf) . [Several Ways of Enterprise Commercial Privacy Data Leakage](./OAMLab/161_运维观点/5304_运维.安全.信息安全.企业商业隐私数据泄露的几个途径.20230424.2225.pdf)
+- [Several Signs that Enterprises begin to Pay Attention to Information Security](./OAMLab/161_运维观点/5302_运维.安全.信息安全.企业开始注重信息安全的几个征兆.20230328.2002.pdf)
+
+- [Several Keywords of Enterprise Commercial Privacy Data](./OAMLab/161_运维观点/5312_运维.安全.信息安全.企业商业隐私数据的几个关键词.20240808.2201.pdf) . [Several Ways of Enterprise Commercial Privacy Data Leakage](./OAMLab/161_运维观点/5304_运维.安全.信息安全.企业商业隐私数据泄露的几个途径.20230424.2225.pdf)
 
 - OAMLab.Issue 202211.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2022-11)
 
@@ -141,19 +143,20 @@ Concerned about the construction of the laboratory, the caring people who active
 
 | Full Name						    | Donation Proportion	 |CONTACT|
 |--------------------|---------------------:|-----------------|
-| **Andy Yao**       |                12.0% |   77810419@qq.com |
-| **Zhang Kaixiong** |                 2.4% |  759869080@qq.com |
-| **Ding Dan**       |                 6.0% |   20580822@qq.com |
-| **Leo Lv**         |                 3.6% |  591244761@qq.com |
-| **Duan Shihua**    |                 1.2% |  275142133@qq.com |
-| **Smilea Zhao**    |                12.0% |  491446839@qq.com |
-| **Sun Yanchu**     |                 2.4% |  951803764@qq.com |
-| **Liu Jianhuai**   |                 1.2% |  496707275@qq.com |
-| **Liu Jun**        |                 1.2% | 1186158664@qq.com |
-| **Li Yuanrong**    |                 1.2% |  584194788@qq.com |
-| **Zeng Xianglin**  |                 1.2% |  839225516@qq.com |
-| **Zeng Xianglin**  |                 2.4% |  23198985@qq.com |
-| **Qiu Ke**         |                 2.4% |  23198985@qq.com |
+| **Andy Yao**       |                17.3% |   77810419@qq.com |
+| **Zhang Kaixiong** |                 1.7% |  759869080@qq.com |
+| **Ding Dan**       |                 4.3% |   20580822@qq.com |
+| **Leo Lv**         |                 2.6% |  591244761@qq.com |
+| **Duan Shihua**    |                 0.9% |  275142133@qq.com |
+| **Smilea Zhao**    |                 8.6% |  491446839@qq.com |
+| **Sun Yanchu**     |                 1.7% |  951803764@qq.com |
+| **Liu Jianhuai**   |                 0.9% |  496707275@qq.com |
+| **Liu Jun**        |                 2.6% | 1186158664@qq.com |
+| **Li Yuanrong**    |                 0.9% |  584194788@qq.com |
+| **Zeng Xianglin**  |                 2.6% |  839225516@qq.com |
+| **Qiu Ke**         |                 3.5% |  23198985@qq.com |
+| **Sivin Liu**      |                 0.9% |  2176804187@qq.com |
+| **Eric Zhou**      |                 0.9% |  243120635@qq.com |
 
 *Ranking is based on the time sequence of filling in the questionnaire.Current overall donation progress is about 47%
 
