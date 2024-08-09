@@ -70,7 +70,6 @@ Number of servers: 2
 
 10,Message Queue: RabbitMQ, kafka, etc
 Number of servers: 3
-
 ```
 
 ## 🧰 Experimental Environment Infrastructure Version:
@@ -99,25 +98,53 @@ The infrastructure versions currently provided are as follows:
 
 - [Several Keywords of Enterprise Commercial Privacy Data](./OAMLab/161_运维观点/5312_运维.安全.信息安全.企业商业隐私数据的几个关键词.20240808.2201.pdf) . [Several Ways of Enterprise Commercial Privacy Data Leakage](./OAMLab/161_运维观点/5304_运维.安全.信息安全.企业商业隐私数据泄露的几个途径.20230424.2225.pdf)
 
+
 - OAMLab.Issue 202211.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2022-11)
+  - [李渊荣老师：夜莺v4监控系统安装使用介绍](https://github.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2022-11/1009_01_OAMLab.运维实验室.运维实验.夜莺v4监控系统安装使用介绍.20221115.2044.docx)
+  - [张楷熊老师：关于nginx的介绍和应急故障处理](https://github.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2022-11/1006_01_OAMLab.运维实验室.运维实验.关于nginx的介绍和应急故障处理.20221115.1659.pptx)
+
 
 - OAMLab.Issue 202302.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2023-02)
+  - [况波老师：夜莺V5监控告警](https://github.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-02/1009_01_OAMLab.运维实验室.运维实验.夜莺V5监控告警.20221217.1955.docx)
+  - [刘军老师：关于消息搜索在ES上使用的实践](https://github.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-02/1005_01_OAMLab.运维实验室.运维实验.关于消息搜索在ES上使用的实践.20221115.1659.pptx)
+
 
 - OAMLab.Issue 202304.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2023-04)
+  - [邱科老师：关于jenkins的pipeline用法](https://github.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-04/1007_01_OAMLab.运维实验室.运维分享.关于jenkins的pipeline用法.20230404.1615.pptx)
+  - [孙焱楚老师：关于金融行业的智能运维建设](https://github.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-04/1001_01_OAMLab.运维实验室.运维分享.关于金融行业的智能运维建设.20230410.1415.pptx)
+
 
 - OAMLab.Issue 202306.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2023-06)
+  - [田夜明老师：基于安全基线的安全运维建设](https://github.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-06/1008_01_OAMLab.运维实验室.运维分享.基于安全基线的安全运维建设.20230616.2135.pptx)
+  - [况波老师：Jenkins的Pipeline](https://github.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-06/1007_01_OAMLab.运维实验室.运维分享.jenkins的pipeline.20230616.0930.md)
+
 
 - OAMLab.Issue 202308.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2023-08)
+  - [曾祥林老师：k8s的api的简单调用](https://github.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-08/1002_01_OAMLab.运维实验室.运维实验.k8s的api的简单调用.20230412.2053.docx)
+  - [段世华老师：数据库发展趋势](https://github.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-08/1004_01_OAMLab.运维实验室.运维分享.数据库发展趋势.20230410.1035.pptx)
+
 
 - OAMLab.Issue 202404.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2024-04)
+  - [刘思雨老师：关于VictorMetrics的使用](https://github.com/oamlab/victoriametrics/blob/main/victoriametrics/3181_Others/README.md)
+
 
 - OAMLab.Issue 202406.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2024-06)
+  - [周伟老师：关于DevSecOps演示环境的部署方法和测试](https://github.com/oamlab/devsecops/blob/main/devsecops/3181_Others/README.md)
+  - [张兵老师：关于Loki的部署和使用方法](https://github.com/oamlab/loki/blob/main/loki/3181_Others/README.md)
 
-- [Use Nginx-QUIC,HTTP/3](https://github.com/oamlab/nginx-quic)
 
-- [Overview of deploying DevSecOps's demo environment](https://github.com/oamlab/devsecops/blob/main/devsecops/3181_Others/README.md)
-
-- [Attacker List](https://github.com/oamlab/attacker)
+- [Portal](https://github.com/oamlab?tab=repositories)
+  - [OAMLab](https://github.com/oamlab)
+  - [DevSecOps](https://github.com/oamlab/devsecops)
+  - [Kubernetes](https://github.com/oamlab/kubernetes)
+  - [STS](https://github.com/oamlab/STS)
+  - [Nightingale](https://github.com/oamlab/nightingale)
+  - [VictoriaMetrics](https://github.com/oamlab/victoriametrics)
+  - [Jenkins](https://github.com/oamlab/jenkins)
+  - [Loki](https://github.com/oamlab/loki)
+  - [Use HTTP/3, Nginx-QUIC](https://github.com/oamlab/nginx-quic)
+  - [Attacker List](https://github.com/oamlab/attacker)
+  - [Analysis of IP's Location，nali](https://github.com/oamlab/nali)
 
 ## 🤝 Co-Sponsor
 
