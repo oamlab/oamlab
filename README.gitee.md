@@ -72,7 +72,6 @@ CD-Ansible,IaC
 10,消息队列:
 关键词: RabbitMQ,kafka等
 服务器数量: 3
-
 ```
 
 ## 🧰 实验环境基础设施版本：
@@ -101,25 +100,53 @@ CD-Ansible,IaC
 
 - [企业商业隐私数据的几个关键词](https://gitee.com/OAMLab/oamlab/raw/main/OAMLab/161_运维观点/5312_运维.安全.信息安全.企业商业隐私数据的几个关键词.20240808.2201.pdf) . [企业商业隐私数据泄露的几个途径](https://gitee.com/OAMLab/oamlab/raw/main/OAMLab/161_运维观点/5304_运维.安全.信息安全.企业商业隐私数据泄露的几个途径.20230424.2225.pdf)
 
+
 - OAMLab.运维实验室.202211期.课题分享会 . [视频](./OAMLab/401_运维实验/2022-11)
+  - [李渊荣老师：夜莺v4监控系统安装使用介绍](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2022-11/1009_01_OAMLab.运维实验室.运维实验.夜莺v4监控系统安装使用介绍.20221115.2044.docx)
+  - [张楷熊老师：关于nginx的介绍和应急故障处理](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2022-11/1006_01_OAMLab.运维实验室.运维实验.关于nginx的介绍和应急故障处理.20221115.1659.pptx)
+
 
 - OAMLab.运维实验室.202302期.课题分享会 . [视频](./OAMLab/401_运维实验/2023-02)
+  - [况波老师：夜莺V5监控告警](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-02/1009_01_OAMLab.运维实验室.运维实验.夜莺V5监控告警.20221217.1955.docx)
+  - [刘军老师：关于消息搜索在ES上使用的实践](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-02/1005_01_OAMLab.运维实验室.运维实验.关于消息搜索在ES上使用的实践.20221115.1659.pptx)
+
 
 - OAMLab.运维实验室.202304期.课题分享会 . [视频](./OAMLab/401_运维实验/2023-04)
+  - [邱科老师：关于jenkins的pipeline用法](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-04/1007_01_OAMLab.运维实验室.运维分享.关于jenkins的pipeline用法.20230404.1615.pptx)
+  - [孙焱楚老师：关于金融行业的智能运维建设](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-04/1001_01_OAMLab.运维实验室.运维分享.关于金融行业的智能运维建设.20230410.1415.pptx)
+
 
 - OAMLab.运维实验室.202306期.课题分享会 . [视频](./OAMLab/401_运维实验/2023-06)
+  - [田夜明老师：基于安全基线的安全运维建设](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-06/1008_01_OAMLab.运维实验室.运维分享.基于安全基线的安全运维建设.20230616.2135.pptx)
+  - [况波老师：Jenkins的Pipeline](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-06/1007_01_OAMLab.运维实验室.运维分享.jenkins的pipeline.20230616.0930.md)
+
 
 - OAMLab.运维实验室.202308期.课题分享会 . [视频](./OAMLab/401_运维实验/2023-08)
+  - [曾祥林老师：k8s的api的简单调用](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-08/1002_01_OAMLab.运维实验室.运维实验.k8s的api的简单调用.20230412.2053.docx)
+  - [段世华老师：数据库发展趋势](https://gitee.com/oamlab/oamlab/raw/main/OAMLab/401_运维实验/2023-08/1004_01_OAMLab.运维实验室.运维分享.数据库发展趋势.20230410.1035.pptx)
+
 
 - OAMLab.运维实验室.202404期.课题分享会 . [视频](./OAMLab/401_运维实验/2024-04)
+  - [刘思雨老师：关于VictorMetrics的使用](https://gitee.com/oamlab/victoriametrics/blob/main/victoriametrics/3181_Others/README.md)
+
 
 - OAMLab.运维实验室.202406期.课题分享会 . [视频](./OAMLab/401_运维实验/2024-06)
+  - [周伟老师：关于DevSecOps演示环境的部署方法和测试](https://gitee.com/oamlab/devsecops/blob/main/devsecops/3181_Others/README.md)
+  - [张兵老师：关于Loki的部署和使用方法](https://gitee.com/oamlab/loki/blob/main/loki/3181_Others/README.md)
 
-- [使用Nginx-QUIC,HTTP/3](https://gitee.com/oamlab/nginx-quic)
 
-- [关于部署DevSecOps演示环境的概要资料](https://gitee.com/oamlab/devsecops/blob/main/devsecops/3181_Others/README.md)
-
-- [攻击者清单](https://github.com/oamlab/attacker)
+- [传送门](https://gitee.com/oamlab/projects)
+  - [OAMLab](https://gitee.com/oamlab)
+  - [DevSecOps](https://gitee.com/oamlab/devsecops)
+  - [Kubernetes](https://gitee.com/oamlab/kubernetes)
+  - [STS](https://gitee.com/oamlab/STS)
+  - [Nightingale](https://gitee.com/oamlab/nightingale)
+  - [VictoriaMetrics](https://gitee.com/oamlab/victoriametrics)
+  - [Jenkins](https://gitee.com/oamlab/jenkins)
+  - [Loki](https://gitee.com/oamlab/loki)
+  - [使用HTTP/3，Nginx-QUIC](https://gitee.com/oamlab/nginx-quic)
+  - [攻击者清单](https://gitee.com/oamlab/attacker)
+  - [IP属地分析，nali](https://gitee.com/oamlab/nali)
 
 *[国际访问请使用国际资料仓github入口，点击进入](https://github.com/oamlab)
 
