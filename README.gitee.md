@@ -20,10 +20,10 @@
 ## 🌏 前言：
 - [在线文档：https://gitee.com/oamlab/oamlab](https://gitee.com/oamlab/oamlab)
 - [Online Documentation：https://github.com/oamlab/oamlab](./README.English.md)
-- 注：所有的历史实验文档，都在github进行存档。
+- 注：所有的历史实验文档，都在GitHub进行存档。
 - 欢迎更多的运维技术人员参与实验，一起不断向前！
 
-*[国际访问请使用国际资料仓Github入口，点击进入](https://github.com/oamlab)
+*[国际访问请使用国际资料仓GitHub入口，点击进入](https://github.com/oamlab)
 
 ## 🕒 预约实验设施:
 - [预约申请表单：https://www.wenjuan.com/s/An2muew](https://www.wenjuan.com/s/An2muew)
