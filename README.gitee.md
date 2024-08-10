@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/oamlab">github</a> | 
-   <a href="https://gitee.com/oamlab/oamlab">gitee</a> | 
+   <a href="https://github.com/oamlab">GitHub</a> | 
+   <a href="https://gitee.com/oamlab/oamlab">Gitee</a> | 
    <a href="./README.English.md">English</a>
 </p>
 
@@ -23,7 +23,7 @@
 - 注：所有的历史实验文档，都在github进行存档。
 - 欢迎更多的运维技术人员参与实验，一起不断向前！
 
-*[国际访问请使用国际资料仓github入口，点击进入](https://github.com/oamlab)
+*[国际访问请使用国际资料仓Github入口，点击进入](https://github.com/oamlab)
 
 ## 🕒 预约实验设施:
 - [预约申请表单：https://www.wenjuan.com/s/An2muew](https://www.wenjuan.com/s/An2muew)
@@ -148,7 +148,7 @@ CD-Ansible,IaC
   - [攻击者清单](https://gitee.com/oamlab/attacker)
   - [IP属地分析，nali](https://gitee.com/oamlab/nali)
 
-*[国际访问请使用国际资料仓github入口，点击进入](https://github.com/oamlab)
+*[国际访问请使用国际资料仓GitHub入口，点击进入](https://github.com/oamlab)
 
 ## 🤝 联合发起人
 
