@@ -21,7 +21,7 @@
 ## 🌏 Preface：
 - [在线文档：https://github.com/oamlab](https://github.com/oamlab)
 - [Online Documentation：https://github.com/oamlab/oamlab](./README.English.md)
-- Note: All historical experimental documents are archived in github.
+- Note: All historical experimental documents are archived in GitHub.
 - Welcome more operation and maintenance technicians to participate in the experiment and move forward together!
 
 ## 🕒 Appointment of Experimental Facilities:
