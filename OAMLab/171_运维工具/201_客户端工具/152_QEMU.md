@@ -1,3 +1,8 @@
+# QEMU
+
+https://www.qemu.org/download/#linux
+
+````
 安装转换工具
 yum install qemu-utils
 
@@ -12,3 +17,4 @@ qemu-img convert -f vmdk -O qcow2 source-name.vmdk target-name.qcow2
 
 vmdk的多文件合并
 vmware-vdiskmanager.exe -r sourceDisk.vmdk -t 0 destinationDisk.vmdk
+````
