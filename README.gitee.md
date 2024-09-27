@@ -34,10 +34,10 @@
 **OAMLab** 是公益免费的运维实验室，主要用于各位运维技术人员做运维技术实验使用，模块包括：
 
 ``` java
-1,云计算-KVM: KVM,Openstack
+1,云计算-KVM: virsh,Openstack
 服务器数量: 3
 
-2,云计算-Container: Docker,Kubernetes
+2,云计算-Container: docker,Kubernetes
 服务器数量: 3
 
 3,分布式存储: Hadoop,Hbase,Ceph
