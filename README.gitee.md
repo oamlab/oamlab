@@ -135,6 +135,10 @@ CD-Ansible,IaC
   - [张兵老师：关于Loki的部署和使用方法](https://gitee.com/oamlab/loki/blob/main/loki/3181_Others/README.md)
 
 
+- OAMLab.运维实验室.202412期.课题分享会 . [视频](./OAMLab/401_运维实验/2024-12)
+  - [杨启涌老师：基于Nginx的灰度发布方法](https://gitee.com/oamlab/nginx/blob/develop/nginx/3181_Others/README.md)
+
+
 - [传送门](https://gitee.com/oamlab/projects)
   - [OAMLab](https://gitee.com/oamlab)
   - [DevSecOps](https://gitee.com/oamlab/devsecops)
