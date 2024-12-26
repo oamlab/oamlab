@@ -133,6 +133,10 @@ The infrastructure versions currently provided are as follows:
   - [张兵老师：关于Loki的部署和使用方法](https://github.com/oamlab/loki/blob/main/loki/3181_Others/README.md)
 
 
+- OAMLab.Issue 202412.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2024-12)
+  - [杨启涌老师：基于Nginx的灰度发布方法](https://github.com/oamlab/nginx/blob/main/nginx/3181_Others/README.md)
+
+
 - [Portal](https://github.com/oamlab?tab=repositories)
   - [OAMLab](https://github.com/oamlab)
   - [DevSecOps](https://github.com/oamlab/devsecops)
