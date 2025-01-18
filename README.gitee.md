@@ -78,7 +78,11 @@ CD-Ansible,IaC
 
 目前提供的基础设施版本如下：
 
-- [CentOS-Stream-9-20221003.2-x86_64](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
+- [CentOS-Stream-9-x86_64](https://www.centos.org/download)，版本终止时间：20270531
+
+*备用版本：[CentOS-Stream-10-x86_64](https://www.centos.org/download)，版本终止时间：2030
+
+*[系统演进：Fedora ➡ Centos Stream ➡ RHEL](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
 
 ## 📚 OAMLab 分享内容：
 
