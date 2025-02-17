@@ -76,9 +76,9 @@ Number of servers: 3
 
 The infrastructure versions currently provided are as follows:
 
-- [CentOS-Stream-9-x86_64](https://www.centos.org/download), EOL: 20270531
+- [CentOS-Stream-9-x86_64](https://www.centos.org/download), Kernel 5.14, EOL: 20270531
 
-*Backup Verison: [CentOS-Stream-10-x86_64](https://www.centos.org/download), EOL: 2030
+*Backup Verison: [CentOS-Stream-10-x86_64](https://www.centos.org/download), Kernel 6.12, EOL: 2030
 
 *[System Evolution：Fedora ➡ Centos Stream ➡ RHEL](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
 
