@@ -1,6 +1,6 @@
-
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">OAMLab v0.3.0</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">OAMLab · Operation and Maintenance Laboratory</h1>
 <h4 align="center">Public welfare and free operation and maintenance laboratory!</h4>
+<h4 align="center">Since 2022</h4>
 <p align="center">
   <a href="./LICENSE"><img alt="license" src="https://img.shields.io/github/license/oamlab/oamlab" /></a>
   <img alt="repo-size" src="https://img.shields.io/github/repo-size/oamlab/oamlab" />
