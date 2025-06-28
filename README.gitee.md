@@ -78,11 +78,25 @@ CD-Ansible,IaC
 
 目前提供的基础设施版本如下：
 
-- [CentOS-Stream-9-x86_64](https://www.centos.org/download)，Kernel 5.14，版本终止时间：20270531
+- 当前版本：[CentOS-Stream-9-x86_64](https://www.centos.org/download)，Kernel 5.14，版本终止时间：20270531
 
-*备用版本：[CentOS-Stream-10-x86_64](https://www.centos.org/download)，Kernel 6.12，版本终止时间：2030
+- 备用版本：[CentOS-Stream-10-x86_64](https://www.centos.org/download)，Kernel 6.12，版本终止时间：2030
 
-*[系统演进：Fedora >> Centos Stream >> RHEL](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
+- 系统演进：[Fedora >> Centos Stream >> RHEL](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
+
+运维工程实验的组件、软件来源：
+
+  - GitHub
+    - https://github.com/search
+
+  - 清华大学开源软件镜像站
+    - https://mirrors.tuna.tsinghua.edu.cn
+
+  - Apache软件基金会
+    - https://projects.apache.org/projects.html
+
+  - SourceForge
+    - https://sourceforge.net/directory
 
 ## 📚 OAMLab 分享内容：
 
