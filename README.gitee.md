@@ -84,8 +84,8 @@ CD-Ansible,IaC
 
 - 系统演进：[Fedora >> Centos Stream >> RHEL](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
 
+运维工程实验的组件、软件来源：
 
-- 运维工程组件、软件源：
   - GitHub
     - https://github.com/search
 

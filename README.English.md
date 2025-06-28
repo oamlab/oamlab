@@ -82,15 +82,17 @@ The infrastructure versions currently provided are as follows:
 
 - System Evolution：[Fedora >> Centos Stream >> RHEL](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
 
-
-- Source of operation and maintenance engineering components and software:
+Components and software sources for operation and maintenance engineering experiments:
 
   - GitHub:
     - https://github.com/search
+
   - Tsinghua University Open Source Software Mirror Site:
     - https://mirrors.tuna.tsinghua.edu.cn
+
   - Apache Software Foundation:
     - https://projects.apache.org/projects.html
+
   - SourceForge:
     - https://sourceforge.net/directory
 
