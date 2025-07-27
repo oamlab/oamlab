@@ -80,7 +80,7 @@ The infrastructure versions currently provided are as follows:
 
 - Backup Verison: [CentOS-Stream-10-x86_64](https://www.centos.org/download), Kernel 6.12, EOL: 2030
 
-- System Evolution：[Fedora >> Centos Stream >> RHEL](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
+- System Evolution：[Fedora >> Centos Stream >> Red Hat Enterprise Linux (RHEL)](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
 
 Components and software sources for operation and maintenance engineering experiments:
 
