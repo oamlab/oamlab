@@ -82,7 +82,7 @@ CD-Ansible,IaC
 
 - 备用版本：[CentOS-Stream-10-x86_64](https://www.centos.org/download)，Kernel 6.12，版本终止时间：2030
 
-- 系统演进：[Fedora >> Centos Stream >> RHEL](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
+- 系统演进：[Fedora >> Centos Stream >> Red Hat Enterprise Linux (RHEL)](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
 
 运维工程实验的组件、软件来源：
 
