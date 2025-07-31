@@ -20,14 +20,14 @@ git config --global --list
 
 ``` bash
 user.name=xxx
-user.email=xxx@xxx.com
+user.email=xxx@example.localhost
 ```
 
 #### 2、生成rsa证书
 
 ``` bash
 cd C:\Users\你的当前用户名
-ssh-keygen -t rsa -C "你在github使用的邮箱，譬如：xxx@xxx.com"
+ssh-keygen -t rsa -C "你在github使用的邮箱，譬如：xxx@example.localhost"
 ```
 - 回车后会询问ssh key生成的路径，以及是否需要密码，可以直接留空回车即可。
 
