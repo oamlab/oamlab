@@ -72,29 +72,26 @@ Number of servers: 2
 Number of servers: 3
 ```
 
-## 🧰 Experimental Environment Infrastructure Version:
+## 🧰 Experimental Environment Infrastructure:
 
 The infrastructure versions currently provided are as follows:
-
 - Current Version: [CentOS-Stream-9-x86_64](https://www.centos.org/download), Kernel 5.14, EOL: 20270531
-
 - Backup Verison: [CentOS-Stream-10-x86_64](https://www.centos.org/download), Kernel 6.12, EOL: 2030
-
 - System Evolution：[Fedora >> Centos Stream >> Red Hat Enterprise Linux (RHEL)](https://blog.centos.org/2021/12/introducing-centos-stream-9/)
 
+Operating System Software Lifecycle Management:
+- Operating System Updates: Daily, yum update
+- Operating System Reboots: Every Saturday, reboot
+
 Components and software sources for operation and maintenance engineering experiments:
-
-  - GitHub:
-    - https://github.com/search
-
-  - Tsinghua University Open Source Software Mirror Site:
-    - https://mirrors.tuna.tsinghua.edu.cn
-
-  - Apache Software Foundation:
-    - https://projects.apache.org/projects.html
-
-  - SourceForge:
-    - https://sourceforge.net/directory
+- GitHub:
+  - https://github.com/search
+- Tsinghua University Open Source Software Mirror Site:
+  - https://mirrors.tuna.tsinghua.edu.cn
+- Apache Software Foundation:
+  - https://projects.apache.org/projects.html
+- SourceForge:
+  - https://sourceforge.net/directory
 
 ## 📚 OAMLab Share Content：
 
