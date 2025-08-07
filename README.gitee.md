@@ -154,6 +154,10 @@ CD-Ansible,IaC
   - [杨启涌老师：基于Nginx的灰度发布方法](https://gitee.com/oamlab/nginx/blob/develop/nginx/3181_Others/README.md)
 
 
+- OAMLab.运维实验室.202508期.课题分享会 . [预告](./OAMLab/401_运维实验/2025-08)
+  - [兰正旺老师：关于部署Jenkins Pipeline演示环境](https://gitee.com/oamlab/jenkins/blob/main/jenkins/3181_Others/Jenkins_Pipeline_20250731_2201.md)
+
+
 - [传送门](https://gitee.com/oamlab/projects)
   - [OAMLab](https://gitee.com/oamlab)
   - [DevSecOps](https://gitee.com/oamlab/devsecops)
