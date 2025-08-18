@@ -152,7 +152,7 @@ Components and software sources for operation and maintenance engineering experi
   - [杨启涌老师：基于Nginx的灰度发布方法](https://github.com/oamlab/nginx/blob/main/nginx/3181_Others/README.md)
 
 
-- OAMLab.Issue 202508.Topic Sharing Meeting . [Notice](./OAMLab/401_运维实验/2025-08)
+- OAMLab.Issue 202508.Topic Sharing Meeting . [Video](./OAMLab/401_运维实验/2025-08)
   - [兰正旺老师：关于部署Jenkins Pipeline演示环境](https://github.com/oamlab/jenkins/blob/main/jenkins/3181_Others/Jenkins_Pipeline_20250731_2201.md)
 
 
