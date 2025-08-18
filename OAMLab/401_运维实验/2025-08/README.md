@@ -34,18 +34,18 @@
 # 会议记录：
 - 会议文档：当前文件夹内
 - 会议视频：
-- https://www.bilibili.com/video/XXXXXX
+- https://www.bilibili.com/video/BV1LgY4zTE4t
 
-|   大致起时间	 |   大致止时间	 | 内容             |
-|---------:|---------:|----------------|
-| 00:00:00 | 00:00:00 | 课题分享：关于XXX的XXX |
+|   大致起时间	 |   大致止时间	 | 内容                            |
+|---------:|---------:|-------------------------------|
+| 00:01:00 | 00:18:00 | 课题分享：关于部署Jenkins Pipeline演示环境 |
 
 
 ### 会议课题：
-#### 分享课题：xxx
-- 主讲老师：xxx老师，xxx@qq.com
-- 分享时间：xxxxxx，星期六，上午10点
+#### 分享课题：关于部署Jenkins Pipeline演示环境
+- 主讲老师：兰正旺老师，1223790502@qq.com
+- 分享时间：20250810，星期天，上午10点
 - 分享时长：30分钟
 - PPT：有
-- 技术文档：无
+- 技术文档：https://github.com/oamlab/jenkins/blob/main/jenkins/3181_Others/Jenkins_Pipeline_20250731_2201.md
 - 是否确认：已确认
