@@ -191,22 +191,25 @@ The co-sponsors who advocate diligent technology and continuous learning are as 
 
 Concerned about the construction of the laboratory, the caring people who actively donated are as follows:
 
-| Full Name						    | Donation Proportion	 |CONTACT|
-|--------------------|---------------------:|-----------------|
-| **Andy Yao**       |                17.3% |   77810419@qq.com |
-| **Zhang Kaixiong** |                 1.7% |  759869080@qq.com |
-| **Ding Dan**       |                 4.3% |   20580822@qq.com |
-| **Leo Lv**         |                 2.6% |  591244761@qq.com |
-| **Duan Shihua**    |                 0.9% |  275142133@qq.com |
-| **Smilea Zhao**    |                 8.6% |  491446839@qq.com |
-| **Sun Yanchu**     |                 1.7% |  951803764@qq.com |
-| **Liu Jianhuai**   |                 0.9% |  496707275@qq.com |
-| **Liu Jun**        |                 2.6% | 1186158664@qq.com |
-| **Li Yuanrong**    |                 0.9% |  584194788@qq.com |
-| **Zeng Xianglin**  |                 2.6% |  839225516@qq.com |
-| **Qiu Ke**         |                 3.5% |  23198985@qq.com |
-| **Sivin Liu**      |                 0.9% |  2176804187@qq.com |
-| **Eric Zhou**      |                 0.9% |  243120635@qq.com |
+| Full Name						     | Donation Proportion	 |CONTACT|
+|---------------------|---------------------:|-----------------|
+| **Andy Yao**        |                11.0% |   77810419@qq.com |
+| **Zhang Kaixiong**  |                 2.8% |  759869080@qq.com |
+| **Ding Dan**        |                 5.5% |   20580822@qq.com |
+| **Leo Lv**          |                 1.7% |  591244761@qq.com |
+| **Duan Shihua**     |                 0.6% |  275142133@qq.com |
+| **Smilea Zhao**     |                 5.5% |  491446839@qq.com |
+| **Sun Yanchu**      |                 1.1% |  951803764@qq.com |
+| **Liu Jianhuai**    |                 0.6% |  496707275@qq.com |
+| **Liu Jun**         |                 1.1% | 1186158664@qq.com |
+| **Li Yuanrong**     |                 0.6% |  584194788@qq.com |
+| **Zeng Xianglin**   |                 1.7% |  839225516@qq.com |
+| **Qiu Ke**          |                 2.2% |  23198985@qq.com |
+| **Sivin Liu**       |                 0.6% |  2176804187@qq.com |
+| **Eric Zhou**       |                 0.6% |  243120635@qq.com |
+| **Zw Lan**          |                 1.1% |  1223790502@qq.com |
+| **Tao Wujie**       |                 1.1% |  1070587554@qq.com |
+| **Wang Lun**        |                 0.6% |  371186235@qq.com |
 
 *Ranking is based on the time sequence of filling in the questionnaire; Current overall donation progress is about 49%; The donation proportion follow the total cost.
 
